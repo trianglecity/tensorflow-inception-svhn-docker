@@ -99,7 +99,7 @@ NOTICE 3: the performance is not evaluated due to the tiny dataset.
 
 [18] root@b0530bb93ecf:/home/deeplearning/cnn# python ./cnn_inception_train.py
 
-	The output looks somthing like this:
+	The output looks something like this:
 
 	...
 	...
